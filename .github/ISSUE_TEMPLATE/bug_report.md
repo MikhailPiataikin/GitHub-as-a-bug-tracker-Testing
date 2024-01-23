@@ -8,17 +8,16 @@ assignees: MikhailPiataikin
 ---
 
 ** Steps to Reproduce**
-Steps to reproduce the behavior:
 1.
 
 **Expected behavior**
 
-**Product unit number: - **
+**Product unit number: -**
 
 **Version: -** 
 
 **Severity: -** 
 
-**Priority: - **
+**Priority: -**
  
 **Additional context**
