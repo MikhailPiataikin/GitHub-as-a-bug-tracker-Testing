@@ -18,6 +18,4 @@ assignees: MikhailPiataikin
 
 **Severity: -** 
 
-**Priority: -**
- 
 **Additional context**
