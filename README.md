@@ -1,1 +1,1 @@
-# GitHub-as-a-bug-tracking-testing
+# GitHub Issues as a bug-tracker testing
