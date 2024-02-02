@@ -8,9 +8,8 @@ assignees: MikhailPiataikin
 ---
 
 **Steps to Reproduce**
-1.
 
-**Expected behavior**
+
 
 **Product unit number: -**
 
